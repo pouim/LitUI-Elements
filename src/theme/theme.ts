@@ -40,5 +40,6 @@ export const defaultTheme = css`
     --shadow-light: 0px 1px 3px rgba(0, 0, 0, 0.12);
     --shadow-medium: 0px 3px 6px rgba(0, 0, 0, 0.16);
     --shadow-large: 0px 10px 20px rgba(0, 0, 0, 0.19);
+    --focus-shadow: 0 0 0 2px rgba(98, 0, 238, 0.2);
   }
 `;
