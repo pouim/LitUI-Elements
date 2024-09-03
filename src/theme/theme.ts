@@ -15,6 +15,18 @@ export const defaultTheme = css`
     --text-color-hover: #f5f5f5;
     --text-color-secondary: #757575;
 
+    /* Active Button Color */
+    --active-button-bg: #3700b3;
+    --active-button-text-color: #ffffff;
+
+    /* Additional Button Styles */
+    --button-background-color: var(--primary-color);
+    --button-text-color: var(--text-color);
+    --button-hover-background-color: var(--primary-color-hover);
+    --button-active-background-color: var(--active-button-bg);
+    --button-active-text-color: var(--active-button-text-color)
+      /* Toolbar Background */ --toolbar-background-color: #f0f0f0;
+
     /* Typography */
     --font-family: "Roboto", sans-serif;
     --font-size-small: 12px;
