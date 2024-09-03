@@ -11,7 +11,8 @@ export const defaultTheme = css`
     --error-color: #b00020;
     --background-color: #ffffff;
     --surface-color: #f5f5f5;
-    --text-color: #000000;
+    --text-color: #f5f5f5;
+    --text-color-hover: #f5f5f5;
     --text-color-secondary: #757575;
 
     /* Typography */
